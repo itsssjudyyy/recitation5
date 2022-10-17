@@ -6,6 +6,7 @@ public class Recitation3 {
         Scanner scan = new Scanner(System.in);
 
         // add your code here
+        Circle circle = new Circle();
 
         return;
     }
